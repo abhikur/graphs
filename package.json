@@ -1,0 +1,22 @@
+{
+  "name": "graphs",
+  "version": "1.0.0",
+  "description": "A set of javascript tests designed to get you to implement graphs.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhikur/graphs.git"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhikur/graphs/issues"
+  },
+  "homepage": "https://github.com/abhikur/graphs#readme"
+}
